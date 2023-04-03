@@ -29,7 +29,3 @@ There is no configuration or settings page. Simply install and activate the plug
 
 = 1.0.0 =
 * Initial release
-
-== Screenshots ==
-
-None.
