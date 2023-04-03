@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Adds custom CSS to the Gutenberg editor to highlight blocks on hover and focus.
+Adds custom CSS to the Gutenberg editor to highlight blocks on hover and remove highlighting on focus.
 
 == Description ==
 
-This plugin adds custom CSS to the Gutenberg editor to highlight blocks on hover and focus.
+This plugin adds custom CSS to the Gutenberg editor to highlight blocks on hover and remove highlighting on focus.
 
 == Installation ==
 
