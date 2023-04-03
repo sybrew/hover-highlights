@@ -1,7 +1,7 @@
 === Hover Highlights - Editor highlighting ===
 Contributors: Cybr
 Donate link: https://github.com/sponsors/sybrew
-Tags: gutenberg, editor, css
+Tags: gutenberg, editor, css, blocks, highlighter
 Requires at least: 5.0
 Tested up to: 6.2
 Stable tag: 1.0.0
