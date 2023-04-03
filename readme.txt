@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Hover Highlights is a WordPress plugin that highlights Gutenberg/Block editor blocks on hover, reducing distraction and improving outlining.
+Hover Highlights is a distraction-free syntax highlighter for the Block Editor, activated on hover.
 
 == Description ==
 
