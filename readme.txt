@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Adds a subtle highlight effect to the Gutenberg/Block Editor. When you hover over a block, it gets highlighted with a dashed outline and a box-shadow. The highlight disappears when you focus on the block to reduce distraction.
+Add hover highlights to your Block Editor for improved visibility and style.
 
 == Description ==
 
