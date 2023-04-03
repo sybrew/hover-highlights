@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Adds custom CSS to the Gutenberg editor to highlight blocks on hover and remove highlighting when focusing.
+Adds custom CSS to the Gutenberg/Block editor to highlight blocks on hover and remove highlighting when focusing.
 
 == Description ==
 
-This plugin adds custom CSS to the Gutenberg editor to highlight blocks on hover and remove highlighting when focusing.
+This plugin adds custom CSS to the Gutenberg/Block editor to highlight blocks on hover and remove highlighting when focusing.
 
 == Installation ==
 
@@ -23,11 +23,11 @@ This plugin adds custom CSS to the Gutenberg editor to highlight blocks on hover
 
 = Why doesn't the highlight show up? =
 
-If the custom CSS is not applied to the Gutenberg editor, it is possible that your theme or another plugin is overriding the styles. You can check by disabling other plugins or switching to a default WordPress theme to see if the highlighting appears.
+If the custom CSS is not applied to the Gutenberg/Block editor, it is possible that your theme or another plugin is overriding the styles. You can check by disabling other plugins or switching to a default WordPress theme to see if the highlighting appears.
 
 = How do I use this plugin? =
 
-There is no configuration or settings page. Simply install and activate the plugin, and the custom CSS will be added to the Gutenberg editor.
+There is no configuration or settings page. Simply install and activate the plugin, and the custom CSS will be added to the Gutenberg/Block editor.
 
 == Changelog ==
 
