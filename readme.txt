@@ -33,16 +33,3 @@ There is no configuration or settings page. Simply install and activate the plug
 == Screenshots ==
 
 None.
-
-== Credits ==
-
-* Plugin icon made by Freepik from www.flaticon.com
-
-== Plugin Name ==
-
-Hover Highlights - Editor highlighting
-
-== Author ==
-
-Sybre Waaijer
-https://cyberwire.nl/
