@@ -10,13 +10,18 @@
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
 
+/**
+ * Enqueues the CSS stylesheet for the plugin.
+ *
+ * @since 1.0.0
+ */
 function hover_highlights_output_focus_style() {
-    echo <<<'CSS'
+	echo <<<'CSS'
 <style>
-    .wp-block:hover:not(:has(:focus),:focus) {
-        outline: 1px dashed #1e1e1e;
-        box-shadow: 0 0 2px #e1e1e1;
-    }
+	.wp-block:hover:not(:has(:focus),:focus) {
+		outline: 1px dashed #1e1e1e;
+		box-shadow: 0 0 2px #e1e1e1;
+	}
 </style>
 CSS;
 }
