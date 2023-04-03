@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="The SEO Framework">
+	<description>The coding standard used for The SEO Framework plugin for WordPress.</description>
+
+	<!-- Get it here: https://github.com/theseoframework/wpcs-tsf -->
+	<rule ref="TSF"/>
+
+	<!-- Defined at wpcs-tsf. We cannot override that here... -->
+	<!-- <config name="minimum_supported_wp_version" value="5.5"/> -->
+	<!-- <config name="testVersion" value="7.2-"/> -->
+
+	<!-- Check all PHP files in directory tree by default. -->
+	<arg name="extensions" value="php"/>
+	<file>.</file>
+</ruleset>
