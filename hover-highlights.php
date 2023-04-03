@@ -11,7 +11,7 @@
  */
 
 /**
- * Enqueues the CSS stylesheet for the plugin.
+ * Outputs the CSS style for the hover highlight effect in the Block Editor.
  *
  * @since 1.0.0
  */
