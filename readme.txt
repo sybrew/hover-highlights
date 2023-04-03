@@ -21,6 +21,10 @@ This plugin adds custom CSS to the Gutenberg editor to highlight blocks on hover
 
 == Frequently Asked Questions ==
 
+= Why doesn't the highlight show up? =
+
+If the custom CSS is not applied to the Gutenberg editor, it is possible that your theme or another plugin is overriding the styles. You can check by disabling other plugins or switching to a default WordPress theme to see if the highlighting appears.
+
 = How do I use this plugin? =
 
 There is no configuration or settings page. Simply install and activate the plugin, and the custom CSS will be added to the Gutenberg editor.
