@@ -1,20 +1,22 @@
 === Hover Highlights - Editor highlighting ===
 Contributors: Cybr
 Donate link: https://github.com/sponsors/sybrew
-Tags: blocks, highlighter, Gutenberg, Block Editor
+Tags: blocks, accessibility, a11y, highlighter, Gutenberg, Block Editor
 Requires at least: 5.0
 Tested up to: 6.2
 Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-"Hover Highlights - Editor highlighting" adds highlighting on hover and a distraction-free experience on focus for the Gutenberg/Block Editor.
+Adds highlighting on hover with a distraction-free experience for the Gutenberg/Block Editor.
 
 == Description ==
 
 Hover Highlights is a simple WordPress plugin that adds a subtle highlight effect to the Gutenberg/Block Editor. When you hover over a block, it gets highlighted with a dashed outline and a box-shadow. The highlight disappears when you focus on the block to reduce distraction.
 
 This plugin is ideal for content creators who want to visually distinguish individual blocks within the Block Editor.
+
+_The code and this readme are mostly written by ChatGPT._
 
 == Installation ==
 
@@ -35,8 +37,3 @@ Yes, this plugin should work with most other block editor plugins.
 
 = 1.0.0 =
 * Initial release
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-Initial release
