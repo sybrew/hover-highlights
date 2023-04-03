@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Add hover highlights to your Block Editor for improved visibility and style.
+Add hover highlights and outlines to your Block Editor for improved visibility, reduced distraction, and enhanced style.
 
 == Description ==
 
