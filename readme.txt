@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Distraction-free hover highlighting for Gutenberg.
+"Hover Highlights - Editor highlighting" adds highlighting on hover and a distraction-free experience on focus for the Gutenberg/Block Editor.
 
 == Description ==
 
