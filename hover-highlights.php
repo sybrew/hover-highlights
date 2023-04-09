@@ -16,13 +16,13 @@ namespace Hover_Highlights;
 
 \defined( 'ABSPATH' ) or exit;
 
-\add_action( 'enqueue_block_editor_assets', __NAMESPACE__ . '\\output_focus_style' );
+\add_action( 'enqueue_block_editor_assets', __NAMESPACE__ . '\\output_hover_style' );
 /**
  * Outputs the CSS style for the hover highlight effect in the Block Editor.
  *
  * @since 1.0.0
  */
-function output_focus_style() {
+function output_hover_style() {
 	echo <<<'HTML'
 <style>
 	.wp-block:hover:not(:has(:focus),:focus) {
