@@ -4,6 +4,7 @@ Donate link: https://github.com/sponsors/sybrew
 Tags: blocks, accessibility, a11y, highlighter, Gutenberg, Block Editor
 Requires at least: 5.0
 Tested up to: 6.2
+Requires PHP: 7.3.0
 Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -36,4 +37,5 @@ Yes, this plugin should work with most other block editor plugins.
 == Changelog ==
 
 = 1.0.0 =
+
 * Initial release
