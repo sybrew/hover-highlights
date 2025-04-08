@@ -1,11 +1,11 @@
 === Hover Highlights - Editor highlighting ===
 Contributors: Cybr
 Donate link: https://github.com/sponsors/sybrew
-Tags: blocks, accessibility, a11y, highlighter, Gutenberg, Block Editor
+Tags: blocks, accessibility, a11y, Gutenberg, Block Editor
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.8
 Requires PHP: 7.3.0
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -30,11 +30,17 @@ _The code and this readme are mostly written by ChatGPT._
 
 The highlight effect only appears when you hover over a block. If you're not seeing the highlight, try moving your mouse over a block.
 
-= Is this plugin compatible with other block editor plugins? =
+= Is this plugin compatible with other Block Editor plugins? =
 
-Yes, this plugin should work with most other block editor plugins.
+Yes, this plugin should work with most other Block Editor plugins.
 
 == Changelog ==
+
+= 1.1.0 =
+
+* Fixed an issue where styles were outputted outside the intended scope, which caused the browser to enter in quirks mode.
+* Added support for Full Site Editing (FSE).
+* Now requires WordPress 5.8 or higher, instead of 5.0.
 
 = 1.0.0 =
 
